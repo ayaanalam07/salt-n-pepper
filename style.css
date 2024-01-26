@@ -1,0 +1,267 @@
+img{
+    width: 170px;
+    
+}
+#franchise{
+    border: 1px solid #ffffff;
+    padding: 15px 25px;
+    border-radius: 30px;
+}
+#order{
+    border: 1px solid #ffffff;
+    padding: 15px 25px;
+    border-radius: 30px;
+    background-color: #ff0000;
+}
+#logo{
+    width: 1500px;
+}
+.head{
+font-family: serif;
+    
+}
+.lazy{
+    border: 1px solid #ffffff;
+    padding: 25px 30px;
+    width: 300px;
+    border-radius: 5px 5px;
+}
+.order-btn{
+    border: 1px solid #ffffff;
+    padding: 15px 30px ;
+    border-radius: 30px 30px;
+    margin: 0px 105px;
+}
+.head-2{
+    padding: 60px 0px  10px;
+    font-family: serif;
+    font-size: 40px;
+}
+.head-3{
+    padding-bottom: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.islam{
+ color: #ff0000;
+    padding:  120px;
+    font-family: monospace;
+    font-size: 15px;
+}
+.place{
+    width: 600px;
+    margin: 25px;
+}
+.place-2{
+    width: 600px;
+    margin: 12px 110px;
+
+}
+.para-2{
+    padding: -120;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.faisal{
+    color: #ff0000;
+    padding:  -120px;
+    font-family: monospace;
+    font-size: 15px;
+}
+.Restaurant-2{
+ padding: -120px;
+    
+}
+.get-2{
+    border: 1px solid #ffffff;
+padding: 8px 18px;
+border-radius: 40px;
+margin: 30px 140px;
+font-size: 15px;
+}
+ 
+.web{
+ width: 350px;
+ margin: 70px 40px;
+}
+.mall{
+    color: #ff0000;
+    margin: 5px 160px;
+    font-family: monospace;
+    font-size: 15px; 
+    text-align: center;
+}
+.exp{
+text-align: center;
+margin: 5px 40px ;
+
+}
+.p-z{
+    text-align: center;
+    margin: 15px 30px ; 
+}
+.get-3{
+   background-color: #09c409;
+    padding: 8px 18px;
+    border-radius: 40px;
+    margin: 30px 10px;
+    font-size: 15px;
+}
+.gujar{
+    color: #ff0000;
+    padding:  -120px;
+    font-family: monospace;
+    font-size: 15px;
+}
+.Restaurant-3{
+    padding: -120px;
+}
+.para-3{
+    padding: -120;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.parent{
+    margin: 90px -80px;
+}
+.l-1{
+    width: 170px;
+    margin: 70px 80px;
+}
+.paragraph{
+    
+    margin: -50px 80px 50px;
+}
+.term{
+ font-size: 15px;
+    margin: 50px 80px;
+}
+.priv{
+    margin: 50px 10px;
+    
+}
+.list{
+    text-decoration: none;
+    margin: 100px 30px;
+    
+}
+.site{
+    font-family: serif;
+    margin: 30px -40px 20px;
+}
+.cont{
+    margin: 50px -30px;
+}
+.cont-2{
+    margin: 80px 170px;
+    
+}
+.li{
+margin: 20px -70px;
+list-style-type: none;
+}
+.li-2{
+margin: 20px -70px;
+list-style-type: none;
+
+}
+.cont-3{
+    margin: 80px -20px;}
+.Us-2{
+    margin: -5px -70px;
+}
+.icon-2{
+    width: 110px;
+    height: 40px;
+    margin: 110px -40px;
+}
+.save{
+    width: 120px;
+    margin: 170px -70px;
+}
+.google{
+    width: 120px;
+    margin: 220px -70px;
+}
+.spr{
+    margin: 15px 70px;
+}
+.intro{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    margin: 30px;
+}
+.p1{
+    margin: 20px;
+}
+.p2{
+    font-family: serif;
+    font-size: 30px;
+    margin: 50px;
+}
+.mar{
+    margin: 50px -40px;
+}
+.book-1{
+    width: 450px;
+    
+}
+.border{
+    border: 1px solid #bdb9b9;
+    padding: 10px;
+    
+}
+.border-2{
+    border: 1px solid #bdb9b9;
+    padding: 10px;
+}
+.prnt{
+    margin: 70px;
+}
+.ava{
+ margin: 20px;
+    font-family: serif;
+}
+.input{
+   margin-top: 15px;
+    width: 600px;
+    height: 44px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+}
+.lab{
+margin: 10px -120px 30px;
+
+}
+.mar{
+    margin: 60px;
+}
+
+.btn{
+background-color: #e61313;
+    border: 1px solid #000000;
+    color: #ffffff;
+    padding: 12px;
+    font-family: serif;
+    border-radius: 20px;
+    margin: 40px 310px;
+}
+.A{
+    font-size: 50px;
+}
+.box{
+    width: 400px;
+    height: 40px;
+    margin: 7px 50px ;
+}
+.lab{
+    margin: 7px 50px;
+}
+.btn-2{
+    background-color: #e61313;
+    border: 1px solid #000000;
+    color: #ffffff;
+    padding: 15px 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 60px;
+    margin: -10px 230px 80px;
+    font-size: 15px; 
+}
